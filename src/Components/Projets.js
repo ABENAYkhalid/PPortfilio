@@ -36,7 +36,7 @@ const Projets = () => {
                     technologie: 'Django, MySQL, GitHub',
                 },
                 {
-                    titre: 'Création d\'un site web pour rechercher des restaurants dans votre région',
+                    titre: 'Création d\'un site web pour rechercher des restaurants',
                     technologie: 'Spring Boot, React JS, MySQL, GOOGLE MAP API',
                 },
             ],
